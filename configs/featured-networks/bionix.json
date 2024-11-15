@@ -2,13 +2,13 @@
     "title": "Bionix",
     "url": "https://mainnet.bionixnetwork.com/",
     "group": "Testnets",
-    "icon": "https://raw.githubusercontent.com/bionixnetwork/frontend-configs/main/configs/network-icons/bionix-icon-dark.svg"
+    "icon": "https://raw.githubusercontent.com/bionixnetwork/frontend-configs/refs/heads/main/configs/network-icons/bionix-icon-dark.svg"
 },
 {
     "title": "Bionix Testnet",
     "url": "https://testnet.bionixnetwork.com/",
     "group": "Testnets",
-    "icon": "https://raw.githubusercontent.com/bionixnetwork/frontend-configs/main/configs/network-icons/bionix-icon-dark.svg",
+    "icon": "https://raw.githubusercontent.com/bionixnetwork/frontend-configs/refs/heads/main/configs/network-icons/bionix-icon-dark.svg",
     "isActive": true
 }
 ]
