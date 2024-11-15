@@ -1,0 +1,57 @@
+[
+    {
+      "title": "Bionix",
+      "links": [
+        {
+          "text": "Whitepaper",
+          "url": "https://bionixnetwork.com/whitepaper-bionix-chain.pdf"
+        },
+        {
+          "text": "Contact Team",
+          "url": "https://bionix-network.gitbook.io/bionix/contact-team"
+        }
+      ]
+    },
+    {
+        "title": "Developers",
+        "links": [
+          {
+            "text": "Documentation",
+            "url": "https://bionix-network.gitbook.io/bionix/"
+          },
+          {
+            "text": "Github",
+            "url": "https://github.com/bionixnetwork"
+          },
+          {
+            "text": "API DOC",
+            "url": "https://bionix-network.gitbook.io/bionix/api-integration"
+          },
+          {
+            "text": "Faucet Bionix Testnet",
+            "url": "https://claim-faucet.bionixnetwork.com/"
+          }
+        ]
+      },
+      {
+        "title": "Community",
+        "links": [
+          {
+            "text": "Twitter (X)",
+            "url": "https://x.com/BionixLayer1"
+          },
+          {
+            "text": "Telegram Portal",
+            "url": "https://t.me/BionixNetworkPortal"
+          },
+          {
+            "text": "Telegram Channel",
+            "url": "https://t.me/BionixGlobalNews"
+          },
+          {
+            "text": "Blog",
+            "url": "https://medium.com/@BionixLayer1"
+          }
+        ]
+      }
+  ]
